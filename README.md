@@ -8,9 +8,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19F713&width=435&lines=Hey+There+!+It's+Athanasy+Fotis+!;I+am+a+Learning+Developer+;I+Love+Drinking+Coffee+while+Coding+;I+Love+Working+on+Challenging+Projects;Thanks+For+Visiting.;Have+a+Pleasant+Time+!)](https://git.io/typing-svg)
 
-[<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/AthanasyFotis/AthanasyFotis78/blob/main/resources/hr.gif"/>](https://github.com/AthanasyFotis)
 
-<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/dragon.webp" width="70px"> About Me </h1>
+<h1> <img src="https://github.com/AthanasyFotis/AthanasyFotis/blob/main/resources/dragon.webp" width="70px"> About Me </h1>
 
 ```python3
 class Athanasy():
