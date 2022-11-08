@@ -6,7 +6,7 @@
     <img align="middle" src="https://profile-counter.glitch.me/AthanasyFotis/count.svg" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F727&width=435&lines=Hey+There+!+It's+AthanasyFotis+!;I+am+a+Learning+Developer;I+love+drinking+coffee+while+coding;I+love+working+on+cool+and+challenging+projects;Thanks+For+Visiting!)](https://github.com/AthanasyFotis)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19F713&width=435&lines=Hey+There+!+It's+Athanasy+Fotis+!;I+am+a+Learning+Developer+;I+Love+Drinking+Coffee+while+Coding+;I+Love+Working+on+Challenging+Projects;Thanks+For+Visiting.;Have+a+Pleasant+Time+!)](https://git.io/typing-svg)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
